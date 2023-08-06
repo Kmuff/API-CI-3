@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/pmxs7lakoh7382it?svg=true)](https://ci.appveyor.com/project/Kmuff/api-ci-3)
+[![Build status](https://ci.appveyor.com/api/projects/status/rgc3rm52aur8dxbh?svg=true)](https://ci.appveyor.com/project/Kmuff/api-ci-3)
